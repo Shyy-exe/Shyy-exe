@@ -3,7 +3,7 @@
 <h1 align="center">~ 🐭🖤 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🖤🐭 ~</h1>
 <h2 align="center"> ⛩️ ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ ⛩️ </h2>
   <div align="center">
-<img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" align="right">
+    <img src="https://media.tenor.com/EOw95Z6XjPQAAAAC/cyberpunk2077-edgerunners.gif" align="right">
   </div>
 <li>
  <b>Name: </b>Kevin / Shiaggy / Shyy.exe ☝️🤓
