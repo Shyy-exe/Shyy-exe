@@ -3,7 +3,7 @@
 <h1 align="center">~ 🐭🖤 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🖤🐭 ~</h1>
 <h2 align="center"> ⛩️ ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ ⛩️ </h2>
   <div align="center">
-    <img src="https://media.tenor.com/EOw95Z6XjPQAAAAC/cyberpunk2077-edgerunners-lucy.gif" align="right" width="250">
+    <img src="https://media.tenor.com/EOw95Z6XjPQAAAAC/edgerunners-lucy-hacking.gif" align="right" width="250">
   </div>
 <li>
  <b>Name: </b>Kevin / Shiaggy / Shyy.exe ☝️🤓
